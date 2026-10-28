@@ -1,49 +1,54 @@
-# M&F Herramientas — Website Showcase
+# M&F Herramientas | Website Showcase
+
+<p align="center">
+  <img src="./portada-mf.png" alt="M&F Herramientas — Website Preview" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Corporate Website · Digital Product Catalog · Automotive Tools</strong>
+</p>
 
 <p align="center">
   <a href="https://herramientas.net.co/">
-    <img src="https://img.shields.io/badge/Visit_Live_Website-036FD3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit live website" />
+    <img src="https://img.shields.io/badge/VISIT_LIVE_WEBSITE-036FD3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website" />
   </a>
 </p>
 
-<p align="center">
-  <strong>Corporate website and digital catalog for specialized automotive tools in Colombia.</strong>
-</p>
-
 ---
 
-## Overview
+## About the Project
 
-M&F Herramientas is a Colombian company specializing in the import and distribution of automotive tools for workshops, retailers, and professional technicians.
+**M&F Herramientas** is a Colombian company specializing in the import and distribution of automotive and professional tools.
 
-This repository serves as a public portfolio showcase of the company's website. The live experience is available at **[herramientas.net.co](https://herramientas.net.co/)**.
+This project showcases the company's digital presence, designed to present its product portfolio, strengthen its brand identity, and connect customers with its commercial channels.
 
 ## Key Features
 
-- **Product catalog:** Browse specialized tools by category and brand.
-- **Product discovery:** Find tools through search and category navigation.
-- **Brand showcase:** Explore internationally recognized automotive tool brands.
-- **National distribution:** Information for workshops, retailers, and distributors across Colombia.
-- **Customer contact:** Direct access to quotation and business inquiry channels.
-- **Responsive experience:** Designed to support visitors across different screen sizes.
+- **Digital product catalog:** Explore professional tools and product categories.
+- **Brand presentation:** Discover specialized tool brands.
+- **Product discovery:** Navigate the catalog to find relevant solutions.
+- **Customer inquiries:** Access contact and quotation channels.
+- **Business-oriented design:** A digital experience tailored to professional customers and distributors.
 
-## Technologies
+## Project Objectives
 
-The website project involves modern web development and digital business tools. The exact production stack is intentionally not reproduced in this showcase repository.
-
-## Project Goals
-
-- Improve the digital presentation of a specialized tools business.
-- Make product discovery easier for customers and distributors.
-- Support product inquiries and quotation requests.
-- Connect the company's commercial operations with its online presence.
+- Strengthen the company's online presence.
+- Improve product discovery and catalog accessibility.
+- Support customer inquiries and quotation requests.
+- Connect the company's commercial offering with its digital channels.
 
 ## Live Website
 
-**Explore the project:** [https://herramientas.net.co/](https://herramientas.net.co/)
+Explore the published website:
+
+**[https://herramientas.net.co/](https://herramientas.net.co/)**
+
+## Repository Scope
+
+This repository is a **public portfolio showcase**. It is separate from the production website repository and does not contain deployment configuration, private credentials, API secrets, or production source files.
 
 ---
 
 <p align="center">
-  <sub>Portfolio showcase · M&F Herramientas S.A.S. · Colombia</sub>
+  <sub>Portfolio project · M&F Herramientas S.A.S. · Colombia</sub>
 </p>
